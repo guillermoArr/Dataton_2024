@@ -45,6 +45,6 @@ Obtendrán una mejor puntuación si las fuentes estadísticas y geográficas que
 
 Aquí te compartimos información geográfica y estadística que puedes utilizar para el análisis:
 
-![Estadísticas censales a nivel localidad y escalas geoelectorales.](https://www.inegi.org.mx/programas/ccpv/2020/#Datos_abiertos)
-![Mapas geoelectorales de México.](https://cartografia.ine.mx/sige8/productosCartograficos/bases)
-![El Directorio Estadístico Nacional de Unidades Económicas.](https://www.inegi.org.mx/app/descarga/?ti=6)
+[Estadísticas censales a nivel localidad y escalas geoelectorales.](https://www.inegi.org.mx/programas/ccpv/2020/#Datos_abiertos)
+[Mapas geoelectorales de México.](https://cartografia.ine.mx/sige8/productosCartograficos/bases)
+[El Directorio Estadístico Nacional de Unidades Económicas.](https://www.inegi.org.mx/app/descarga/?ti=6)
